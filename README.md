@@ -5,7 +5,7 @@
 ## Установка зависимостей
 Windows:
 ```powershell
-cd path\to\ML_project4
+cd path\to\ML_project3
 python -m venv .venv
 .venv\Scripts\Activate.ps1
 pip install -r requirements.txt
@@ -13,7 +13,7 @@ pip install -r requirements.txt
 
 macOS / Linux:
 ```bash
-cd /path/to/ML_project4
+cd /path/to/ML_project3
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirments.txt
