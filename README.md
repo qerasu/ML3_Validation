@@ -21,5 +21,5 @@ pip install -r requirments.txt
 
 
 ---
-Данные для обучения и тестирования лежат в datasets/data
+Данные для обучения и тестирования лежат в data
 Логика проекта в src/Solution.ipynb
