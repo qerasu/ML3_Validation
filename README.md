@@ -21,5 +21,5 @@ pip install -r requirments.txt
 
 
 ---
-Данные для обучения и тестирования лежат в /data
-Логика кросс валидации в /src
+Данные для обучения и тестирования лежат в datasets/data
+Логика проекта в src/Solution.ipynb
